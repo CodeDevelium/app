@@ -1,0 +1,57 @@
+{
+  "name": "codedevelium/appcompleta",
+  "description": "Plantilla aplicación completa",
+  "minimum-stability": "beta",
+  "type": "project",
+  "keywords": [
+    "mvc"
+  ],
+  "homepage": "http://www.codedevelium.com",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Code Develium",
+      "email": "codedevelium@gmail.com",
+      "homepage": "http://www.codedevelium.com",
+      "role": "owner"
+    }
+  ],
+  "support": {
+    "email": "codedevelium@gmail.com"
+  },
+  "require": {
+    "ext-pdo": "*",
+    "ext-json": "*",
+    "phpmailer/phpmailer": "6.1.*",
+    "ext-gd": "*",
+    "ext-soap": "*",
+    "php2wsdl/php2wsdl": "^0.6.1",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\" : "App//",
+      "App\\Controllers\\" : "App/Controllers/",
+      "App\\Controllers\\Base\\" : "App/Controllers/Base/",
+      "App\\Entidades\\" : "App/Entidades/",
+      "App\\Entidades\\Base\\" : "App/Entidades/Base/",
+      "App\\Modelos\\" : "App/Modelos/",
+      "App\\Modelos\\Base\\" : "App/Modelos/Base/",
+      "App\\Repositorios\\" : "App/Repositorios/",
+      "App\\Repositorios\\Base\\" : "App/Repositorios/Base/",
+      "App\\Librerias\\" : "App/Librerias/",
+      "App\\Textos\\" : "App/Textos/",
+      "App\\WS\\" : "App/WS/",
+      "App\\Rest\\" : "App/Rest/",
+      "App\\Batch\\" : "App/Batch/",
+      "App\\Emails\\" : "App/Emails/"
+
+    }
+  },
+  "config": {
+    "bin-dir": "bin",
+    "sort-packages": true
+  }
+}

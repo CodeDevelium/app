@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b068aa0-e236-46fe-a06e-293cbe8bdf29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/html_public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_public/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="Z:\Composer\composer.phar" interpreterId="b7ca2d7f-24a2-418d-88d3-6e6314e06cc7" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="Z:\www\app\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/php2wsdl/php2wsdl" />
+      <path value="$PROJECT_DIR$/vendor/wingu/reflection" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1dghUawDMQZyWo5iiPQ4EHInktt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b068aa0-e236-46fe-a06e-293cbe8bdf29" name="Default Changelist" comment="" />
+      <created>1592852659539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592852659539</updated>
+      <workItem from="1592852661828" duration="11335000" />
+    </task>
+    <task id="LOCAL-00001" summary="Primer commit">
+      <created>1592864485873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592864485873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="38" key="CommitChangelistDialog2" timestamp="1592864484660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="508" y="38" key="CommitChangelistDialog2/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1592864484660" />
+    <state x="705" y="414" key="ComposerInitDialogKey" timestamp="1592854866114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="414" key="ComposerInitDialogKey/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1592854866114" />
+    <state x="689" y="195" key="FileChooserDialogImpl" timestamp="1592864416143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="195" key="FileChooserDialogImpl/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1592864416143" />
+    <state x="817" y="385" width="310" height="269" key="Github.ShareDialog" timestamp="1592864515168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="385" width="310" height="269" key="Github.ShareDialog/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1592864515168" />
+    <state x="394" y="71" key="SettingsEditor" timestamp="1592864390850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="394" y="71" key="SettingsEditor/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1592864390850" />
+  </component>
+</project>
