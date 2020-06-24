@@ -1,2 +1,2 @@
 <?php
-echo "App Completa";
+echo "App Minima";
