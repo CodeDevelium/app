@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b068aa0-e236-46fe-a06e-293cbe8bdf29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/html_public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/otras_funciones.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <phar pharPath="Z:\Composer\composer.phar" interpreterId="b7ca2d7f-24a2-418d-88d3-6e6314e06cc7" />
@@ -59,8 +58,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/App/Librerias" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/App" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\www\app\App" />
+      <recent name="Z:\www\app\App\Librerias" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="App" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="app">
@@ -90,6 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592852659539</updated>
       <workItem from="1592852661828" duration="13888000" />
+      <workItem from="1593008624534" duration="265000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <created>1592864485873</created>
@@ -105,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592864633201</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Librerias">
+      <created>1593008751864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593008751865</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Librerias">
+      <created>1593008846753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593008846753</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +134,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit" />
     <MESSAGE value="Cambio de html a php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambio de html a php" />
+    <MESSAGE value="Librerias" />
+    <option name="LAST_COMMIT_MESSAGE" value="Librerias" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="88" key="#Servers" timestamp="1592866614552">
@@ -129,10 +150,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="608" y="299" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1592866642139" />
-    <state x="508" y="38" key="CommitChangelistDialog2" timestamp="1593008810297">
+    <state x="508" y="38" key="CommitChangelistDialog2" timestamp="1593008845934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="508" y="38" key="CommitChangelistDialog2/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1593008810297" />
+    <state x="508" y="38" key="CommitChangelistDialog2/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1593008845934" />
     <state x="705" y="414" key="ComposerInitDialogKey" timestamp="1592854866114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -197,10 +218,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="394" y="71" key="SettingsEditor/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1592864390850" />
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1593008759503">
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1593008855629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1593008759503" />
+    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-3.1920.1040@0.0.1920.1040" timestamp="1593008855629" />
     <state x="594" y="23" width="731" height="993" key="find.popup" timestamp="1592865870946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
