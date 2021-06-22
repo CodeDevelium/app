@@ -24,7 +24,7 @@
   "require": {
     "ext-pdo": "*",
     "ext-json": "*",
-    "phpmailer/phpmailer": "6.1.*",
+    "phpmailer/phpmailer": "6.5.*",
     "ext-gd": "*",
     "ext-soap": "*",
     "php2wsdl/php2wsdl": "^0.6.1",
